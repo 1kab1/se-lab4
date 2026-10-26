@@ -1,0 +1,4 @@
+# Test Case 1: Fire a single torpedo successfully
+# Both stores contain 10 torpedoes and never fail
+GT4500,10,0,10,0
+TORPEDO,SINGLE

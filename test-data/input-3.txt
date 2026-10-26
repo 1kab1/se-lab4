@@ -1,0 +1,4 @@
+# Test Case 3: Primary store is empty
+# Secondary store has 10 torpedoes
+GT4500,0,0,10,0
+TORPEDO,SINGLE

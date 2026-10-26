@@ -1,0 +1,4 @@
+# Test Case 2: Fire both torpedo stores
+# Both stores have 10 torpedoes and a 0% failure rate
+GT4500,10,0,10,0
+TORPEDO,ALL
